@@ -18,7 +18,7 @@ pipeline {
         }
         stage('--Status--') { 
             steps {
-                bat "rmdir my-app /S/Q"
+                bat "git"
             }
         }
     }
