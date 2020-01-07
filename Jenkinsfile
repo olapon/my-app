@@ -18,7 +18,7 @@ pipeline {
         }
         stage('--Status--') { 
             steps {
-                bat "dir"
+                bat "dir *"
             }
         }
     }
