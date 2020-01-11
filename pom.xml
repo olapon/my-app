@@ -6,7 +6,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app_gurpreet</artifactId>
-  <version>1.0-SNAPSHOT_39</version>
+  <version>1.0-SNAPSHOT_42</version>
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
@@ -31,7 +31,7 @@
     <repository>
         <id>central</id>
         <name>libs-release</name>
-        <url>http://localhost:8081/artifactory/libs-release</url>
+        <url>http://localhost:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
 
